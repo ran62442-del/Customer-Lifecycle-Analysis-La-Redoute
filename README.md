@@ -67,11 +67,14 @@ The original dataset is not included due to academic and privacy restrictions.
 ---
 
 ## Key Insights
-- High-frequency customers generated a disproportionately high share of revenue.
-- Certain customer segments showed significantly higher retention and monetary value.
-- Purchasing activity showed clear seasonal peaks and low periods.
-- Cross-sell correlations revealed opportunities for product bundling and targeted marketing.
-- Long inactivity periods strongly reduced repurchase probability and customer lifetime value.
+- Customer behavior is very one-time-heavy: median frequency is 1, and 4,915 customers are occasional buyers. This means retention, not acquisition only, is the main growth lever.
+- A small VIP group drives strong value: customers with 0–30 recency + 10+ purchases are only 160 customers, but contribute about 12.1% of revenue. Protect and reward them.
+- Large reactivation opportunity: 2,610 customers bought once and have been inactive for 365+ days. They are low value individually, but huge in volume.
+- Maison dominates the business: Maison generates 62.4% of revenue, led by Meuble and Linge de Maison. La Redoute’s revenue engine is more home-focused than fashion-focused.
+- Loyal customers are much more valuable: loyal customers average €653 total value vs €137 for one-time buyers, and they are more recent. Moving customers from first to second purchase matters a lot.
+- Win-back should be segmented: lapsed one-timers need low-cost reactivation, while 175 lapsed VIPs have high average value (€1,147) and deserve personalized win-back campaigns.
+
+
 
 ---
 
